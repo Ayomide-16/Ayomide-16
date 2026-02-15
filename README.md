@@ -2,7 +2,7 @@
 
 🛠 Mechatronics Engineering student building at the intersection of **AI and physical systems**.
 
-I’m focused on **Embodied AI, robotics, and intelligent control**, integrating intelligence into machines that can sense, decide, and act in the real world.
+I’m focused on **Embodied AI, robotics, and intelligent control** — integrating intelligence into machines that can sense, decide, and act in the real world.
 
 I also build **web & mobile applications** and explore **cybersecurity** as a side interest.
 
@@ -45,7 +45,8 @@ I also build **web & mobile applications** and explore **cybersecurity** as a si
 
 ## 🚧 What You’ll Find Here
 
-Projects that combine:
+Projects that combine:  
+- Mobile & web apps I build for fun  
 - Modelling + simulation  
 - AI implementation  
 - Embedded/system-level thinking  
@@ -56,6 +57,6 @@ Projects that combine:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayomide-16&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide-16&layout=compact&theme=radical" height="160"/>
 </p>
