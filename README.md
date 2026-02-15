@@ -1,50 +1,51 @@
-# 👋 Hi, I’m Samuel Abolarinwa
-*Mechatronics & AI enthusiast | Robotics | Intelligent Control | Sustainable Tech Solutions*
+# 👋 Hi, I’m Samuel
+
+🛠 Mechatronics Engineering student building at the intersection of **AI and physical systems**.
+
+I’m focused on **Embodied AI, robotics, and intelligent control** — integrating intelligence into machines that can sense, decide, and act in the real world.
+
+I also build **web & mobile applications** and explore **cybersecurity** as a side interest.
 
 ---
 
-## 🚀 About Me
-I’m an engineering student passionate about **intelligent control systems, robotics, and AI-driven solutions**. I aim to use technology to **solve real-world problems**, from improving industrial systems to contributing to sustainable development goals like **Zero Hunger**.  
+## 🔎 Currently Exploring
 
-I’m constantly exploring:
-- 🤖 Robotics & Mechatronics  
-- 🧠 Artificial Intelligence & Machine Learning  
-- ⚡ Intelligent Control Systems  
-- 🌱 Sustainable Technology & Automation  
+- 🤖 Autonomous & robotic systems  
+- 🧠 Machine learning for real-world data  
+- ⚡ System dynamics & control  
+- 💻 Full-stack experimentation  
+- 🔐 Secure systems thinking  
 
 ---
 
-## 💻 My Projects
-Here are a few projects I’m actively developing:
+## 🛠 Tech Stack
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Drone Navigation System** | AI-powered obstacle avoidance for autonomous drones | MATLAB, Python, ROS |
-| **Predictive Maintenance for Solar Controllers** | Predict system faults using sensor data | Python, Pandas, Scikit-learn |
-| **CV Image Classifier Web App** | Upload and classify objects like hair dryers, kites, and neckties | Python, Flask, OpenCV |
+### Languages
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin)
 
-Check out all my projects [here](https://github.com/your-username?tab=repositories).
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
+
+### AI / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
+
+### Tools & Systems
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino)
 
 ---
 
 ## 📊 GitHub Stats
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
-
-## 🏆 Achievements & Badges
-![Valedictorian](https://img.shields.io/badge/Valedictorian-🏅-blue)  
-![National Engineering Competition Winner](https://img.shields.io/badge/National_Engineering_Winner-🏆-green)  
-![Hackathons & Challenges](https://img.shields.io/badge/Hackathons-✨-yellow)
-
----
-
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- Email: samuel.abolarinwa@example.com  
-
----
-
-## 🌟 Fun Fact
-I’m the **valedictorian** of my secondary school and a **top performer in national engineering competitions**, blending academic excellence with hands-on innovation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="160"/>
+</p>
