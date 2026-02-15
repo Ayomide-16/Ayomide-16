@@ -2,7 +2,7 @@
 
 🛠 Mechatronics Engineering student building at the intersection of **AI and physical systems**.
 
-I’m focused on **Embodied AI, robotics, and intelligent control** — integrating intelligence into machines that can sense, decide, and act in the real world.
+I’m focused on **Embodied AI, robotics, and intelligent control**, integrating intelligence into machines that can sense, decide, and act in the real world.
 
 I also build **web & mobile applications** and explore **cybersecurity** as a side interest.
 
