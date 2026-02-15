@@ -43,6 +43,16 @@ I also build **web & mobile applications** and explore **cybersecurity** as a si
 
 ---
 
+## 🚧 What You’ll Find Here
+
+Projects that combine:
+- Modelling + simulation  
+- AI implementation  
+- Embedded/system-level thinking  
+- Practical software tools  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
