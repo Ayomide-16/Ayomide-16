@@ -14,7 +14,6 @@ I also build **web & mobile applications** and explore **cybersecurity** as a ho
 - 🧠 Machine learning for real-world data  
 - ⚡ System dynamics & control  
 - 💻 Full-stack experimentation  
-- 🔐 Secure systems thinking  
 
 ---
 
@@ -24,12 +23,6 @@ I also build **web & mobile applications** and explore **cybersecurity** as a ho
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin)
-
-### Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase)
 
 ### AI / Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
@@ -46,11 +39,10 @@ I also build **web & mobile applications** and explore **cybersecurity** as a ho
 ## 🚧 What You’ll Find Here
 
 Projects that combine:  
-- Mobile & web apps I build for fun  
 - Modelling + simulation  
 - AI implementation  
-- Embedded/system-level thinking  
 - Practical software tools  
+- Mobile & web apps I build for fun 
 
 ---
 
