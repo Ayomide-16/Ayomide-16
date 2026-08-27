@@ -39,16 +39,7 @@ I also build **web & mobile applications** and explore **cybersecurity** as a ho
 ## 🚧 What You’ll Find Here
 
 Projects that combine:  
-- Modelling + simulation  
+- Modelling + simulation for Research 
 - AI implementation  
 - Practical software tools  
 - Mobile & web apps I build for fun 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayomide-16&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomide-16&layout=compact&theme=radical" height="160"/>
-</p>
